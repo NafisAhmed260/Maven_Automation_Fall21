@@ -20,6 +20,7 @@ public class List_WebElement_USPS extends Reusable_Annotations {
 
     @Test
     public void USPS_Testing_Links() {
+        //test
         //navigate to usps
         driver.navigate().to("https://www.usps.com");
 
